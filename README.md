@@ -6,5 +6,5 @@
 ### About me
 
 - 🌱 I’m from São José do Rio Preto - SP and currently learning about frontend {HTML / CSS/ JS / React}
-
-- [Website](https://kelsondouglas.com.br/) 💻 - Working on it.
+- 
+![Codewars](https://github.r2v.ch/codewars?user=kelsondouglas&stroke=%23BB432C)
