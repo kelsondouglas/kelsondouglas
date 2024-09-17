@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://fatecriopreto.edu.br/">Faculdade de Tecnologia de São José do Rio Preto</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Javascript e suas bibliotecas e frameworks **ReactJS - NextJS - NodeJS**.
-
+ - Procurando ingressar na área de desenvolvimento, sempre tive muita curiosade em aprender novas tecnologias e entender sobre o funcionamento de processos na área de T.I., um hobby que estou em busca de transformar em minha profissão. 
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
